@@ -1,4 +1,2 @@
 # first-one
-git start
-git verify
-
+i love animals
